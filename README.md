@@ -1,9 +1,10 @@
 
 # Computer Buddies
 
-Some things I sculpted. First in oil clay then cast in resin and concrete mostly at 1:6 scale. Pay what you want if you want one as I cast more.
+Some things I sculpted. First in oil clay then cast in resin and concrete mostly at 1:6 scale. Available by dm for the home or office if you want one.
 
-[tombetthauser](http://tombetthauser.com)
+* [tombetthauser](http://tombetthauser.com)
+* [webpage](https://tombetthauser.github.io/computerbuddies/)
 
 <img src="./assets/images/BettHauser-6.jpg">
 <img src="./assets/images/BettHauser-20.jpg">
