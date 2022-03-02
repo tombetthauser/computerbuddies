@@ -6,7 +6,7 @@
       <p>If you want one email me with computer buddies as the subject and I'll reach out if / when I have new batches. Donate what you want to cover materials, shipping, expanding the project etc.</p>
     <p>
       <!-- <p style="text-decoration: underline;">tombetthauser@gmail.com</p> -->
-      <a href="#hello">tombetthauser@gmail.com</a><br><br>
+      <p>tombetthauser@gmail.com</p>
       <a href="http://tombetthauser.com">personal site</a><br>
       <a href="https://tombetthauser.github.io/computerbuddies/">webpage</a>
     </p>
