@@ -3,17 +3,12 @@
   <body>
     <section id="intro-section">
       <p>Some things I made for my kid kind of. Hand sculpted at 1:6 scale in oil clay then cast in natural wax, resin, concrete and other stuff. Hopefully accurate minus the faces. Would love to make them 6 feet tall someday and maybe scan them for free 3D print files.</p>
-    <details>
-      <summary>
-          Available by email if you want one...
-      </summary>
-      <p>If you're interested email me with <span style="text-decoration: underline;">computer buddies</span> as the subject and I'll reach out if / when I have new batches. Donate what you want to cover materials, shipping, expanding the project etc.</p>
-    </details>
+      <p>If you want one email me with computer buddies as the subject and I'll reach out if / when I have new batches. Donate what you want to cover materials, shipping, expanding the project etc.</p>
     <p>
       <!-- <p style="text-decoration: underline;">tombetthauser@gmail.com</p> -->
-      <a href="#hello">tombetthauser@gmail.com</a><br>
+      <a href="#hello">tombetthauser@gmail.com</a><br><br>
       <a href="http://tombetthauser.com">personal site</a><br>
-      <a href="https://github.com/tombetthauser/computerbuddies">github</a>
+      <a href="https://tombetthauser.github.io/computerbuddies/">webpage</a>
     </p>
     <br>
     </section>
