@@ -3,7 +3,7 @@
   <body>
     <section id="intro-section">
       <p>Some things I made for my kid kind of. Hand sculpted at 1:6 scale in oil clay then cast in natural wax, resin, concrete and other stuff. Hopefully accurate minus the faces. Would love to make them 6 feet tall someday and maybe scan them for free 3D print files.</p>
-      <p>If you want one email me with computer buddies as the subject and I'll reach out if / when I have new batches. Donate what you want to cover materials, shipping, expanding the project etc.</p>
+      <p>If you want one email me with "computer" as the subject and I'll reach out if / when I have new batches. Donate what you want to cover materials, shipping, expanding the project etc.</p>
     <p>
       <!-- <p style="text-decoration: underline;">tombetthauser@gmail.com</p> -->
       <p>tombetthauser@gmail.com</p>
