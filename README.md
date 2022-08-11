@@ -1,28 +1,20 @@
-<body>
-  <body>
-    <section id="intro-section">
-      <h1>Computer Buddies</h1>
-      <p>Some things I made for my kid sort of. Hand sculpted at 1:6 scale in oil clay then cast in natural wax, resin, concrete and other stuff.
-        <!-- Hopefully accurate minus the faces. Would love to make them 6 feet tall someday and maybe scan them for free 3D print files. -->
-      </p>
-    <details>
-      <summary>
-        <!-- <span style="text-decoration: underline; cursor: pointer;"> -->
-          <!-- tombetthauser@gmail.com -->
-          If you want one...
-        <!-- </span> -->
-      </summary>
-      <p>$100 buys you the computer buddy of your choice and a hand-drawn post-it note portrait to be included in a free-to-download zine later this year.</p>
-      <p>All proceeds go to covering materials costs and convention fees. Any extra money will be donated to local hacker spaces in Sacramento, CA.</p>
-    </details>
-    <p>
-      <!-- <p style="text-decoration: underline;">tombetthauser@gmail.com</p> -->
-      <a href="#hello">tombetthauser@gmail.com</a>
-      <a href="http://tombetthauser.com">personal site</a>
-      <a href="https://github.com/tombetthauser/computerbuddies">github</a>
-    </p>
-    </section>
-    <section>
+# Computer Buddies
+
+Some things I made for my kid sort of. Hand sculpted at 1:6 scale in oil clay then cast in natural wax, resin, concrete and other stuff.
+
+<a href="<https://tombetthauser.github.io/computerbuddies>">https://tombetthauser.github.io/computerbuddies</a><br>
+<a href="<http://tombetthauser.com>">http://tombetthauser.com</a><br>
+<a href="#hello">tombetthauser@gmail.com</a><br>
+
+---
+
+## If you want one...
+
+$100 buys you the computer buddy of your choice and a hand-drawn post-it note portrait to be included in a free-to-download zine later this year.
+
+All proceeds go to covering materials costs and convention fees. Any extra money will be donated to local hacker spaces in Sacramento, CA.
+
+
       <img src="./assets/images/34.jpg">
       <img src="./assets/images/33.jpg">
       <img src="./assets/images/32.jpg">
