@@ -1,4 +1,3 @@
-# Computer Buddies
 <body>
   <body>
     <section id="intro-section">
